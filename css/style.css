@@ -125,6 +125,8 @@ top: 34%
 }
 
 @media all and(max-width:426){
+    .bg1{background:url(../images/back2.JPG) no-repeat;}
+
     #section2 .youtube > div > img{
         left: -2%;
     }
